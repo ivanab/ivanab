@@ -6,4 +6,8 @@
 - 💬 Ask me about WebRTC in C# client applications.
 - 📫 How to reach me: [LinkedIn - ivanab](https://www.linkedin.com/in/ivanab/).
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I like traveling and networking in tech events.
+- ⚡ Fun fact: I like traveling and networking in tech events.   
+
+<a href="https://github.com/ivanab">
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanab&count_private=true&show_icons=true&hide=stars" />
+</a>
