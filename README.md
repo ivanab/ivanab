@@ -1,4 +1,4 @@
-### Hi there, I'm Ivana! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=ivanab&color=blue)</div>    
+### Hi there, I'm Ivana! 👋 <!--div align = 'right'>![](https://komarev.com/ghpvc/?username=ivanab&color=blue)</div-->    
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ivanab)        
 - 🔭 **I’m currently working on** demo projects.   
 - 🌱 **I’m currently learning** DSA. <!--about GraphQL.-->  <!--React and Redux.--><!--OAuth/Passport.js and authentication with JWT.--> <!--S.O.L.I.D. Principles.--> <!--exploring my interests.-->
