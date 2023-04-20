@@ -3,7 +3,7 @@
 <br />     
 
 - 📫 **How to reach me**: [<img src="https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect" width="150" height="20"/>](https://www.linkedin.com/in/ivanab)  
-- 🔭 **I’m currently working** <a href="https://github.com/hackhub-nl">@hackhub.nl</a> project.   
+<!-- 🔭 **I’m currently working** <a href="https://github.com/hackhub-nl">@hackhub.nl</a> project.   -->
 - 🌱 **I’m currently learning:** 
     - DSA 
     - Architecture and Design Patterns       
