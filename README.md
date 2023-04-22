@@ -8,6 +8,8 @@
     - DSA 
     - Architecture and Design Patterns       
 
+![ivanab's github stats](https://github-readme-stats.vercel.app/api/?username=ivanab&show_icons=true)
+
 <!--about GraphQL.-->  <!--React and Redux.--><!--OAuth/Passport.js and authentication with JWT.--> <!--S.O.L.I.D. Principles.--> <!--exploring my interests.-->
 <!-- 👯 **I’m looking to collaborate on projects in**  [<img src="https://avatars.githubusercontent.com/u/59364609?s=200&v=4" width="30px" height="30px"/>](https://github.com/OpenSamples).   --> 
 
