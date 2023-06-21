@@ -1,13 +1,13 @@
 ## Hi there, I'm **Ivana! 👋** <!--div align = 'right'>![](https://komarev.com/ghpvc/?username=ivanab&color=blue)</div-->    
     
-<br />     
 
-- 📫 **How to reach me**: [<img src="https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect" width="150" height="20"/>](https://www.linkedin.com/in/ivanab)  
-<!-- 🔭 **I’m currently working** <a href="https://github.com/hackhub-nl">@hackhub.nl</a> project.   -->
-- 🌱 **I’m currently learning:** 
-    - DSA 
-    - Architecture and Design Patterns       
 
+- 📫 **How to reach me**:<br />
+[<img src="https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect" width="150" height="20"/>](https://www.linkedin.com/in/ivanab)
+<hr />
+    
+- 🔭 **I’m currently working on:** <a href="https://github.com/hackhub-nl">@hackhub.nl</a> project.         
+- 🌱 **I’m currently learning:** DSA.  
 <!--![ivanab's github stats](https://github-readme-stats.vercel.app/api/?username=ivanab&show_icons=true) -->
 
 <!--about GraphQL.-->  <!--React and Redux.--><!--OAuth/Passport.js and authentication with JWT.--> <!--S.O.L.I.D. Principles.--> <!--exploring my interests.-->
