@@ -1,13 +1,13 @@
 ## Hi there, I'm **Ivana! 👋** <!--div align = 'right'>![](https://komarev.com/ghpvc/?username=ivanab&color=blue)</div-->    
     
-<h4>📫 How to reach me:
+<!--h4>📫 How to reach me:
     <a href="https://www.linkedin.com/in/ivanab">
         <img src="https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect" width="150" height="20"/>
     </a>
-</h4>
-<h4>⚡ My current tech stack: C#, .NET, React.js, TypeScript, PostgreSQL</h4>
-<h4>🔭 I’m currently working on: <a href="https://github.com/hackhub-nl">@hackhub.nl</a> project</h4>  
-<h4>🌱 I’m currently learning: DSA</h4>  
+</h4-->
+<h4>⚡ My current tech stack: C#, .NET Core, React.js, TypeScript, PostgreSQL</h4>
+<h4>🔭 I’m working on: <a href="https://github.com/hackhub-nl">@hackhub.nl</a> project</h4>  
+<h4>🌱 I’m learning: DSA</h4>  
 
 <!--![ivanab's github stats](https://github-readme-stats.vercel.app/api/?username=ivanab&show_icons=true) -->
 
