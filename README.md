@@ -7,7 +7,7 @@
 </h4-->
 <h4>⚡ My current tech stack: C#, .NET Core, React.js, TypeScript, PostgreSQL</h4>
 <h4>🔭 I’m working on: <a href="https://github.com/hackhub-nl">@hackhub.nl</a> project</h4>  
-<h4>🌱 I’m learning: DSA</h4>  
+<h4>🌱 Currently learning: multithreading and concurrency</h4>  
 
 <!--![ivanab's github stats](https://github-readme-stats.vercel.app/api/?username=ivanab&show_icons=true) -->
 
